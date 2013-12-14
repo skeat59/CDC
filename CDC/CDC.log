@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.17)  12 DEC 2013 21:53
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.17)  14 DEC 2013 13:38
 entering extended mode
-**C:/Users/skeat/Documents/candybird/Cahier*des*charges/CDC.tex
-("C:/Users/skeat/Documents/candybird/Cahier des charges/CDC.tex"
+**C:/Users/skeat/Documents/GitHub/CDC/CDC/CDC.tex
+(C:/Users/skeat/Documents/GitHub/CDC/CDC/CDC.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -538,7 +538,7 @@ Package minitoc Info: I0003
 Package minitoc Info: I0002
 (minitoc)             Autoconfiguration of extensions.
 
-("C:\Users\skeat\Documents\candybird\Cahier des charges\CDC.mtc0")
+(C:\Users\skeat\Documents\GitHub\CDC\CDC\CDC.mtc0)
 Package minitoc Info: I0012
 (minitoc)             Long extensions (Unix-like) will be used.
 Package minitoc Info: I0031
@@ -559,7 +559,7 @@ File: english.mld 2006/01/13
 (C:\Users\skeat\AppData\Roaming\MiKTeX\2.9\tex\latex\minitoc\english.mld
 File: english.mld 2006/01/13
 ))
-("C:\Users\skeat\Documents\candybird\Cahier des charges\CDC.aux")
+(C:\Users\skeat\Documents\GitHub\CDC\CDC\CDC.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
@@ -601,24 +601,16 @@ LaTeX Info: Redefining \up on input line 29.
 Package minitoc(hints) Info: I0049
 (minitoc(hints))             ==> You requested the hints option. 
 (minitoc(hints))             Some hints are eventually given below.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[1
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 32.
+ [1
 
 {C:/Users/skeat/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 35.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 35.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 35.
- [1]
-("C:\Users\skeat\Documents\candybird\Cahier des charges\CDC.toc"
+(C:\Users\skeat\Documents\GitHub\CDC\CDC\CDC.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 5.
 )
@@ -627,42 +619,31 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 Chapitre 1.
-<images/BG1.png, id=16, 800.9925pt x 501.875pt>
-File: images/BG1.png Graphic file (type png)
- <use images/BG1.png>
-Package pdftex.def Info: images/BG1.png used on input line 39.
-(pdftex.def)             Requested size: 360.0pt x 225.56596pt.
-
-Overfull \hbox (17.0pt too wide) in paragraph at lines 39--42
-[][]
- []
-
 [2
 
- <C:/Users/skeat/Documents/candybird/Cahier des charges/images/BG1.png>]
-[3]
+]
 Chapitre 2.
-[4
+[3
 
 ]
 Chapitre 3.
-[5
+[4
 
 ]
 Chapitre 4.
-[6
+[5
 
 ]
 Chapitre 5.
-[7
+[6
 
 ]
 Chapitre 6.
-[8
+[7
 
 ]
 Chapitre 7.
-[9
+[8
 
 ]
 Chapitre 8.
@@ -672,30 +653,29 @@ Package minitoc Info: I0009
 Package minitoc(hints) Info: I0019
 (minitoc(hints))             No hints have been written 
 (minitoc(hints))             in the CDC.log file..
-[10
+[9
 
-] ("C:\Users\skeat\Documents\candybird\Cahier des charges\CDC.aux") ) 
+] (C:\Users\skeat\Documents\GitHub\CDC\CDC\CDC.aux) ) 
 Here is how much of TeX's memory you used:
- 5748 strings out of 493921
- 77522 string characters out of 3144875
+ 5739 strings out of 493921
+ 77250 string characters out of 3144875
  154678 words of memory out of 3000000
- 8765 multiletter control sequences out of 15000+200000
- 16618 words of font info for 38 fonts, out of 3000000 for 9000
+ 8760 multiletter control sequences out of 15000+200000
+ 15792 words of font info for 37 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 30i,10n,43p,290b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users
-\skeat\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk>
- <C:\Users\skeat\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ec
-sl1095.pk> <C:\Users\skeat\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
-\dpi600\ecbx2074.pk> <C:\Users\skeat\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\j
-knappen\ec\dpi600\ecbx1095.pk> <C:\Users\skeat\AppData\Local\MiKTeX\2.9\fonts\p
-k\ljfour\jknappen\ec\dpi600\ecbx2488.pk> <C:\Users\skeat\AppData\Local\MiKTeX\2
-.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\skeat\AppData\Loca
-l\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users\skeat\Ap
-pData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk>
-Output written on CDC.pdf (12 pages, 476656 bytes).
+ 27i,6n,43p,276b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\skeat\AppData\L
+ocal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\skeat
+\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2074.pk> <C:\U
+sers\skeat\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095
+.pk> <C:\Users\skeat\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
+0\ecbx1095.pk> <C:\Users\skeat\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
+n\ec\dpi600\ecbx2488.pk> <C:\Users\skeat\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
+ur\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\skeat\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk>
+Output written on CDC.pdf (10 pages, 84659 bytes).
 PDF statistics:
- 297 PDF objects out of 1000 (max. 8388607)
+ 261 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
