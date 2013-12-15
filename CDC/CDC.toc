@@ -1,14 +1,16 @@
 \select@language {french}
 \contentsline {chapter}{\numberline {1}Introduction}{2}
-\contentsline {chapter}{\numberline {2}Pr\'esentation du Projet}{3}
-\contentsline {chapter}{\numberline {3}Pr\'esentation des membres}{4}
-\contentsline {section}{\numberline {3.1}Mathilde "Mattou" Laplaze}{4}
-\contentsline {section}{\numberline {3.2}Adrien "TiNyDGZz" Louge}{4}
-\contentsline {section}{\numberline {3.3}Florent "T4ze" Youinou}{4}
-\contentsline {section}{\numberline {3.4}Thibault "Skeat" Gdalia}{4}
-\contentsline {chapter}{\numberline {4}Graphismes}{5}
-\contentsline {section}{\numberline {4.1}Logo}{5}
-\contentsline {chapter}{\numberline {5}Moteur Physique}{6}
-\contentsline {chapter}{\numberline {6}Site Internet}{7}
-\contentsline {chapter}{\numberline {7}Reseaux}{8}
-\contentsline {chapter}{\numberline {8}Conclusion}{9}
+\contentsline {chapter}{\numberline {2}Pr\'esentation}{3}
+\contentsline {section}{\numberline {2.1} L'\'equipe }{3}
+\contentsline {section}{\numberline {2.2} Les Membres }{3}
+\contentsline {subsection}{\numberline {2.2.1}Mathilde "Mattou" Laplaze}{3}
+\contentsline {subsection}{\numberline {2.2.2}Adrien "TiNyDGZz" Louge}{4}
+\contentsline {subsection}{\numberline {2.2.3}Florent "T4ze" Youinou}{5}
+\contentsline {subsection}{\numberline {2.2.4}Thibault "Skeat" Gdalia}{6}
+\contentsline {chapter}{\numberline {3}Prindipe du jeu}{8}
+\contentsline {chapter}{\numberline {4}Graphismes}{9}
+\contentsline {section}{\numberline {4.1}Logo}{9}
+\contentsline {chapter}{\numberline {5}Moteur Physique}{10}
+\contentsline {chapter}{\numberline {6}Site Internet}{11}
+\contentsline {chapter}{\numberline {7}Reseaux}{12}
+\contentsline {chapter}{\numberline {8}Conclusion}{13}
