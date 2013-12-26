@@ -6,7 +6,7 @@
 \contentsline {subsection}{\numberline {1.2.2}Adrien "TiNyDGZz" Louge}{4}
 \contentsline {subsection}{\numberline {1.2.3}Florent "T4ze" Youinou}{5}
 \contentsline {subsection}{\numberline {1.2.4}Thibault "Skeat" Gdalia}{6}
-\contentsline {chapter}{\numberline {2}Prindipe du jeu}{8}
+\contentsline {chapter}{\numberline {2}Principe du jeu}{8}
 \contentsline {chapter}{\numberline {3}Graphismes}{9}
 \contentsline {section}{\numberline {3.1}Logo}{9}
 \contentsline {chapter}{\numberline {4}Moteur Physique}{10}
