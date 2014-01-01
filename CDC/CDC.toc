@@ -12,4 +12,7 @@
 \contentsline {chapter}{\numberline {4}Moteur Physique}{10}
 \contentsline {chapter}{\numberline {5}Site Internet}{11}
 \contentsline {chapter}{\numberline {6}Reseaux}{12}
-\contentsline {chapter}{\numberline {7}Conclusion}{13}
+\contentsline {chapter}{\numberline {7}R\IeC {\'e}partitions des t\IeC {\^a}ches}{13}
+\contentsline {subsection}{\numberline {7.0.1}Les R\IeC {\^o}les}{13}
+\contentsline {subsection}{\numberline {7.0.2}Planning des soutenances}{13}
+\contentsline {chapter}{\numberline {8}Conclusion}{14}
