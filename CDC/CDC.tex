@@ -1,3 +1,4 @@
+
 \documentclass [11pt]{report}
 
 \usepackage{fancyhdr}
@@ -11,8 +12,6 @@
 \usepackage{boxedminipage}
 \usepackage{listings}
 \usepackage{minitoc}
-\usepackage{footmisc}
-\usepackage{color}
 
 \pagestyle{fancy}
 
@@ -83,6 +82,9 @@
 	\newpage\
 
 \chapter{Principe du jeu}
+Le personnage doit parcourir les différentes maps du jeu, en évitant les nombreux obstacle se trouvant sur son chemin. Afin que le jeu est un peu plus d'interet pour le joueur, les maps devront être debloquer les unes a la suite des autres, et deviendront de plus en plus dur, avec de nouveau obstacle.\\
+le joueur ne pourra pas déplacer son personnage comme il le souhaite il pourra juste lui faire faire un bond en appuyant sur espace (jusque la rien de bien nouveau), en plus de cela il devra manger les bonbons qui se trouvent sur son chemin afin de faire remonter sa barre d'energie. A chaque fois que le joueur touche un obstacle il est ralenti, a chaque bond effectué le joueur consomme de l'énergie, pour regagner de l'énergie le joueur a deux possibilités laisser l'oiseaux planer ou manger un bonbons. La partie s'arrête lorsque le joueur sort de l'écran (par la droite), cela arrive si le joueur touche trop d'obstacle, ou la partie est finie quand le joueur 
+
 
 \chapter {Graphismes}
 	\section {Logo}
@@ -93,6 +95,38 @@
 	% le texte ici %
 \chapter {Reseaux}
 	% le texte ici %
+\chapter{Répartitions des tâches}
+	\subsection{Les Rôles}
+		\begin{tabular}{| l |*{4} {r|}}
+		\hline
+		Themes & Mathilde & Adrien & Florent & Thibault \\
+		\hline
+		Son & X & & & \\
+		\hline
+		Reseau & & & X & X \\
+		\hline
+		site Internet & & & X & \\
+		\hline
+		Graphisme & X & X & & \\
+		\hline
+		Moteur Physique & & X & X & \\
+		\hline
+		\end{tabular}
+
+	\subsection{Planning des soutenances}
+		\begin{tabular}{| l | * {3}{r |}}
+		\hline
+		 & Soutenance 1 & Soutenance 2 & Soutenance 3 \\
+		\hline
+		Moteur Physique & & & \\
+		\hline
+		 Graphisme & & & \\
+		\hline
+		Réseaux & & & \\
+		\hline
+		site internet & 50\% & 100\%  & 100\%  \\
+	           \hline
+		\end{tabular}
 \chapter {Conclusion}
 	% le texte ici %
 \end {document}
