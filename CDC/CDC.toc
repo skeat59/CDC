@@ -1,5 +1,5 @@
 \select@language {french}
-\contentsline {chapter}{\numberline {1}Pr\'esentation}{2}
+\contentsline {chapter}{\numberline {1}Pr\'esentations}{2}
 \contentsline {section}{\numberline {1.1} L'\'equipe }{2}
 \contentsline {section}{\numberline {1.2} Les Membres }{3}
 \contentsline {subsection}{\numberline {1.2.1}Mathilde "Mattou" Laplaze}{3}
