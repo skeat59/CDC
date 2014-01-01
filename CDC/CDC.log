@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.17)  1 JAN 2014 16:17
+=======
+<<<<<<< HEAD
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.26)  1 JAN 2014 15:04
+=======
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.17)  1 JAN 2014 16:17
+>>>>>>> prez jeu (start) + tab a la fin
+>>>>>>> 81ee64e53a8fa444f073938e8f62e1b667c9f39a
 entering extended mode
 **C:/Users/skeat/Documents/GitHub/CDC/CDC/CDC.tex
 (C:/Users/skeat/Documents/GitHub/CDC/CDC/CDC.tex
@@ -681,6 +689,24 @@ Here is how much of TeX's memory you used:
  8769 multiletter control sequences out of 15000+200000
  18095 words of font info for 40 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+ 28i,11n,43p,995b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\T4ze\AppData\Loc
+al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\T4ze\Ap
+pData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsl1095.pk> <C:\User
+s\T4ze\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk>
+ <C:\Users\T4ze\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecb
+x2074.pk> <C:\Users\T4ze\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\d
+pi600\ecrm1095.pk> <C:\Users\T4ze\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
+ppen\ec\dpi600\ecbx1095.pk> <C:\Users\T4ze\AppData\Local\MiKTeX\2.9\fonts\pk\lj
+four\jknappen\ec\dpi600\ecbx2488.pk> <C:\Users\T4ze\AppData\Local\MiKTeX\2.9\fo
+nts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\T4ze\AppData\Local\MiKT
+eX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi2488.pk>
+Output written on CDC.pdf (14 pages, 159353 bytes).
+=======
+>>>>>>> 81ee64e53a8fa444f073938e8f62e1b667c9f39a
  28i,10n,43p,1041b,296s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\skeat\AppData\L
 ocal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\skeat
@@ -694,6 +720,10 @@ ts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk> <C:\Users\skeat\AppData\Local\MiKT
 eX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\skeat\AppData\
 Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi2488.pk>
 Output written on CDC.pdf (15 pages, 166808 bytes).
+<<<<<<< HEAD
+=======
+>>>>>>> prez jeu (start) + tab a la fin
+>>>>>>> 81ee64e53a8fa444f073938e8f62e1b667c9f39a
 PDF statistics:
  372 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
