@@ -3,16 +3,23 @@
 \contentsline {section}{\numberline {1.1} L'\'equipe }{2}
 \contentsline {section}{\numberline {1.2} Les Membres }{3}
 \contentsline {subsection}{\numberline {1.2.1}Mathilde "Mattou" Laplaze}{3}
-\contentsline {subsection}{\numberline {1.2.2}Adrien "TiNyDGZz" Louge}{4}
-\contentsline {subsection}{\numberline {1.2.3}Florent "T4ze" Youinou}{5}
-\contentsline {subsection}{\numberline {1.2.4}Thibault "Skeat" Gdalia}{6}
-\contentsline {chapter}{\numberline {2}Principe du jeu}{8}
-\contentsline {chapter}{\numberline {3}Graphismes}{9}
-\contentsline {section}{\numberline {3.1}Logo}{9}
-\contentsline {chapter}{\numberline {4}Moteur Physique}{10}
-\contentsline {chapter}{\numberline {5}Site Internet}{11}
-\contentsline {chapter}{\numberline {6}Reseaux}{12}
-\contentsline {chapter}{\numberline {7}R\IeC {\'e}partitions des t\IeC {\^a}ches}{13}
-\contentsline {subsection}{\numberline {7.0.1}Les R\IeC {\^o}les}{13}
-\contentsline {subsection}{\numberline {7.0.2}Planning des soutenances}{13}
-\contentsline {chapter}{\numberline {8}Conclusion}{14}
+\contentsline {subsection}{\numberline {1.2.2}Adrien "TiNyDGZz" Louge}{3}
+\contentsline {subsection}{\numberline {1.2.3}Florent "T4ze" Youinou}{4}
+\contentsline {subsection}{\numberline {1.2.4}Thibault "Skeat" Gdalia}{4}
+\contentsline {chapter}{\numberline {2}Principe et histoire du jeu}{5}
+\contentsline {chapter}{\numberline {3}Partage du travail}{6}
+\contentsline {section}{\numberline {3.1}Repartitions}{7}
+\contentsline {subsection}{\numberline {3.1.1}T\IeC {\^a}ches}{7}
+\contentsline {subsection}{\numberline {3.1.2}Soutenances}{7}
+\contentsline {section}{\numberline {3.2}Graphismes}{7}
+\contentsline {subsection}{\numberline {3.2.1}Logo}{7}
+\contentsline {subsection}{\numberline {3.2.2}Fonds et obstacles}{7}
+\contentsline {subsection}{\numberline {3.2.3}Personnage(s)}{7}
+\contentsline {section}{\numberline {3.3}Moteur Physique}{8}
+\contentsline {section}{\numberline {3.4}Reseaux}{8}
+\contentsline {section}{\numberline {3.5}Menu}{8}
+\contentsline {section}{\numberline {3.6}Communication}{8}
+\contentsline {chapter}{\numberline {4}Ressources utilis\IeC {\'e}es}{9}
+\contentsline {section}{\numberline {4.1}Logiciels}{9}
+\contentsline {section}{\numberline {4.2}Autres}{9}
+\contentsline {chapter}{\numberline {5}Conclusion}{10}
