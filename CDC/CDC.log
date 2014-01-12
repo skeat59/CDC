@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.17)  12 JAN 2014 12:08
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.17)  12 JAN 2014 12:55
 entering extended mode
 **C:/Users/skeat/Documents/GitHub/CDC/CDC/CDC.tex
 (C:/Users/skeat/Documents/GitHub/CDC/CDC/CDC.tex
@@ -692,7 +692,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--173
 
  []
 
-[9] [10]
+[9] [10] [11]
 Chapitre 4.
 
 Underfull \hbox (badness 10000) in paragraph at lines 185--186
@@ -719,7 +719,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--192
 
  []
 
-[11
+[12
 
 ]
 Chapitre 5.
@@ -729,7 +729,7 @@ Package minitoc Info: I0009
 Package minitoc(hints) Info: I0019
 (minitoc(hints))             No hints have been written 
 (minitoc(hints))             in the CDC.log file..
-[12
+[13
 
 ] (C:\Users\skeat\Documents\GitHub\CDC\CDC\CDC.aux) ) 
 Here is how much of TeX's memory you used:
@@ -752,9 +752,9 @@ ts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\skeat\AppData\Local\MiKT
 eX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk> <C:\Users\skeat\AppData\
 Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\skea
 t\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi2488.pk>
-Output written on CDC.pdf (13 pages, 538607 bytes).
+Output written on CDC.pdf (14 pages, 540163 bytes).
 PDF statistics:
- 394 PDF objects out of 1000 (max. 8388607)
+ 398 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
