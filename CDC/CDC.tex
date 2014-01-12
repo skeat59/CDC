@@ -50,7 +50,7 @@
 
 	\section{ L'\'equipe }
 
-		*nom du groupe* est  un groupe constitué de quatre personnes : Adrien Louge alias "TiNyDGZz", le chef de ce projet, Mathilde Laplaze alias "Mattou", la seule fille du groupe, Florent Youinou alias "T4ze" et Thibault Gdalia alias "Skeat". Retenez bien ces pseudos car dans le reste de ce Cahier des Charges nous n'utiliserons plus nos noms et pr\'enoms. Nous sommes r\'epartie sur deux classes : la SUPB2 et la SUPD2.  \'Etant donné que le groupe compte deux redoublants, TiNyDGZz et Skeat, qui ont d\'eja eu cette configuration de groupe l'ann\'ee derni\`ere, nous savons qu'il n'est pas impossible de travailler entre \'el\`eves de classes diff\'erentes. Le groupe a \'et\'e form\'e en fonction des affinit\'es, ainsi que des comp\'etences de chacun que nous avons pu observer durant le premier semestre. Pour une meilleure ambiance dans l'\'equipe, et pour avoir un bon rythme de travail, le groupe s'est constitué de membres qui ont la volont\'e de travailler. 
+		La Girafe est  un groupe constitué de quatre personnes : Adrien Louge alias "TiNyDGZz", le chef de ce projet, Mathilde Laplaze alias "Mattou", la seule fille du groupe, Florent Youinou alias "T4ze" et Thibault Gdalia alias "Skeat". Retenez bien ces pseudos car dans le reste de ce Cahier des Charges nous n'utiliserons plus nos noms et pr\'enoms. Nous sommes r\'epartie sur deux classes : la SUPB2 et la SUPD2.  \'Etant donné que le groupe compte deux redoublants, TiNyDGZz et Skeat, qui ont d\'eja eu cette configuration de groupe l'ann\'ee derni\`ere, nous savons qu'il n'est pas impossible de travailler entre \'el\`eves de classes diff\'erentes. Le groupe a \'et\'e form\'e en fonction des affinit\'es, ainsi que des comp\'etences de chacun que nous avons pu observer durant le premier semestre. Pour une meilleure ambiance dans l'\'equipe, et pour avoir un bon rythme de travail, le groupe s'est constitué de membres qui ont la volont\'e de travailler. 
 	
 	
 	
@@ -107,7 +107,7 @@
 				\hline
 				Themes & Mathilde & Adrien & Florent & Thibault \\
 				\hline
-				Son & X & & & \\
+				Son & X & & & X \\
 				\hline
 				Reseau & & & X & X \\
 				\hline
@@ -158,17 +158,24 @@
 
 
 	\section {Réseaux}
-	Afin de rendre le jeux plus interessant d'un point de vue social, l'idée nous est venu de mettre en place un classement. En ouvrant le jeux il nous est donc possible de se connecter (à un compte précedemment créé) ou de jouer en local. Si l'on se connecte, en fin de partie notre score est automatiquement envoyé sur le site web et s'affiche dans la catégorie classement. Cela permet de comparer son score avec celui d'un ami, ou tout simplement voir notre niveau par rapport à tous les joueurs.\\\vspace{10mm}
+	Afin de rendre le jeux plus interessant d'un point de vue social, l'idée nous est venu de mettre en place un classement. En ouvrant le jeux il nous est donc possible de se connecter (à un compte précedemment créé) ou de jouer en local. Si l'on se connecte, en fin de partie notre score est automatiquement envoyé sur le site web et s'affiche dans la catégorie classement. Cela permet de comparer son score avec celui d'un ami, ou tout simplement voir notre niveau par rapport à tous les joueurs.\\\vspace{5mm}
 
 
 	\section {Menu}
-	Un menu permettra l'agencement des différents états du jeux. Il sera ainsi possible de naviguer dans le menu du jeux à travers les options. Durant une partie un menu pause sera disponible afin de ne pas avoir à quitter entièrement le jeux, ou à perdre la partie losque l'on doit faire quelque chose entre temps.\\\vspace{5mm}
+	Un menu permettra l'agencement des différents états du jeux. Il sera ainsi possible de naviguer dans le menu du jeux à travers les options. Durant une partie un menu pause sera disponible afin de ne pas avoir à quitter entièrement le jeux, ou à perdre la partie losque l'on doit faire quelque chose entre temps. Dans le menu principale il sera possible de ce connecter si le joueur a préalablement créer son profil sur notre site internet, il pourra accéder aux options: activer ou désactiver le son du jeu, il pourra régler la résolutions afin t'optimiser l'affichage en fonction de son ordinateur, et il aura bien évidement la possibilité de commencer une nouvelle partie. \\
+Lorsque le jeu sera en pause le joueur auront différentes possibilités: reprendre la partie, revenir au menu principal et il pourra quitter le jeu.\\\vspace{5mm}
 
 
 	\section {Communication}
 	Pour permettre au jeux de se faire conna\^itre, et pour suivre son \'evolution, un site web sera mis en place. Une grosse partie du site sera dédiée aux nouveautés du jeux, aux presentations ainsi qu'aux rapports de soutenances. Une partie photo regroupera quelques clichés de nous travaillant sur le projet et des screen-shot du jeux. Un formulaire de contact sera disponible afin de nous faire part d'idée d'am\'eliorations, de bug, ou de tout commentaires relatif au jeux. Quand cette la gestion réseau sera opérationnelle nous mettrons aussi en place une page dédiée au classement des joueurs.
 \\\\ \indent
-	De plus, une page facebook sera ouverte à l'effigie de notre jeux. Ainsi il sera tres simple de nous poser des questions et de nous suivre via ce réseau social.
+	De plus, une page facebook sera ouverte à l'effigie de notre jeux. Car nous savons qu'il est plus simple de toucher un maximum de personnes par l'intermédiaire de se réseau social. Nous y mettrons l'ensemble de nos actualités, les nouveauté sur le jeu, des images de notre travail afin d'interpeler les internautes. De plusi il sera tres simple de nous poser des questions.
+
+	\section {\'Editeur de Maps}
+	Nous avons décider de faire les maps dans des fichiers externes, sous formes de tableaux avec des charactères qui définiront les différents éléments du décors. Nous n'avons aucune envie d'écire les maps à la main donc nous allons créer un éditeur de maps qui sera par la suite intégrer au jeu, comme ça le joueur pourra créer ses propres niveaux et pourquoi pas les partagés avec les autres joueurs pour les mettre au défits, ce qui nous permet d'allonger la durée de vie du jeu.
+
+	\section {Son}
+	Nous allons ajouter a notre projet du son, pour cela nous allons utiliser une extension de XNA, Xact, qui nous permettra de g\'erer une biblioth\`eque de sons. Cette biblioth\`eque nous permettra d'am\'eliorer nos \'ev\'enements avec des la musique (sound sur Xact) et des effets sonores lors des actions du joueur (les sounds effects). Ainsi tous les événements lors d'une partie tel que les bons de l'oiseau ou encore lorsqu'il y a une collision entre l'oiseau et un élément du décor, seront accompagnés d'un sound effect. Tous les map auront leur propres musique d'ambiances, par contre il n'y aura qu'une seule musique pour l'ensemble des menus. L'ensemble des sons seront récupérer sur internet car nous n'avons malheuresement pas de musiciens dans notre groupe donc nous feront comme nous pouvons. Nous serons deux à travailler sur cette partie car il faut limiter le temps de recherche des musique.
 
 
 
@@ -177,7 +184,7 @@
 
 	Pour ce projet nous utiliserons plusieurs logiciels afin de programmer les différentes parties :\\
 
-	- Notepad++ : Le site internet a quasiment été entierement codé à la main via cet éditeur de texte.\\\\\indent
+	- Notepad++ : Le site internet a quasiment été entierement codé à la main via cet éditeur de texte. Ainsi que les maps du jeu.\\\\\indent
 	- Wamp : Pour pouvoir creer et tester le site en local.\\\\\indent
 	- Visual Studio 2010 (avec XNA) : Afin de réaliser notre jeux en c\#, nous avons utilisé Visual Studio.\\\\\indent
 	- Photoshop CS6 : La plupart des graphismes ont été réalisés à l'aide de Photoshop.\\\\\indent
@@ -193,6 +200,6 @@
 
 
 \chapter {Conclusion}
-	% le texte ici %
+	Ainsi nous avons poser les bases de notre projet, nous avons fixer les objectifs a atteindre pour chaque soutenance
 
 \end {document}
