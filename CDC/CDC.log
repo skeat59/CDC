@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.17)  12 JAN 2014 13:59
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.17)  12 JAN 2014 14:29
 entering extended mode
 **C:/Users/skeat/Documents/GitHub/CDC/CDC/CDC.tex
 (C:/Users/skeat/Documents/GitHub/CDC/CDC/CDC.tex
@@ -688,42 +688,42 @@ Overfull \hbox (30.26102pt too wide) in paragraph at lines 99--100
 
  <C:/Users/skeat/Documents/GitHub/CDC/CDC/images/Candy_Bird.png>] [7]
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 170--173
+Underfull \hbox (badness 10000) in paragraph at lines 175--177
 
  []
 
-[9] [10] [11]
+[9] [10]
 Chapitre 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--186
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--192
+Underfull \hbox (badness 10000) in paragraph at lines 194--199
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--192
+Underfull \hbox (badness 10000) in paragraph at lines 194--199
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--192
+Underfull \hbox (badness 10000) in paragraph at lines 194--199
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--192
+Underfull \hbox (badness 10000) in paragraph at lines 194--199
 
  []
 
-[12
+[11
 
 ]
 Chapitre 5.
-[13
+[12
 
 ]
 Chapitre 6.
@@ -733,13 +733,13 @@ Package minitoc Info: I0009
 Package minitoc(hints) Info: I0019
 (minitoc(hints))             No hints have been written 
 (minitoc(hints))             in the CDC.log file..
-[14
+[13
 
 ] (C:\Users\skeat\Documents\GitHub\CDC\CDC\CDC.aux) ) 
 Here is how much of TeX's memory you used:
  5909 strings out of 493921
  80038 string characters out of 3144875
- 158678 words of memory out of 3000000
+ 159678 words of memory out of 3000000
  8919 multiletter control sequences out of 15000+200000
  19200 words of font info for 42 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -758,9 +758,9 @@ Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk> <C:\Users\skea
 t\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\
 Users\skeat\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi248
 8.pk>
-Output written on CDC.pdf (15 pages, 543428 bytes).
+Output written on CDC.pdf (14 pages, 543389 bytes).
 PDF statistics:
- 409 PDF objects out of 1000 (max. 8388607)
+ 407 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

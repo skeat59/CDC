@@ -17,14 +17,14 @@
 \contentsline {paragraph}{Groupe}{7}
 \contentsline {subsection}{\numberline {3.2.2}Fonds et obstacles}{8}
 \contentsline {subsection}{\numberline {3.2.3}Personnage(s)}{8}
-\contentsline {section}{\numberline {3.3}Moteur Physique}{9}
+\contentsline {section}{\numberline {3.3}Moteur Physique}{8}
 \contentsline {section}{\numberline {3.4}R\IeC {\'e}seaux}{9}
 \contentsline {section}{\numberline {3.5}Menu}{9}
-\contentsline {section}{\numberline {3.6}Communication}{10}
+\contentsline {section}{\numberline {3.6}Communication}{9}
 \contentsline {section}{\numberline {3.7}\'Editeur de Maps}{10}
 \contentsline {section}{\numberline {3.8}Son}{10}
-\contentsline {chapter}{\numberline {4}Ressources utilis\IeC {\'e}es}{12}
-\contentsline {section}{\numberline {4.1}Logiciels}{12}
-\contentsline {section}{\numberline {4.2}Autres}{12}
-\contentsline {chapter}{\numberline {5}Budget pour le projet}{13}
-\contentsline {chapter}{\numberline {6}Conclusion}{14}
+\contentsline {chapter}{\numberline {4}Ressources utilis\IeC {\'e}es}{11}
+\contentsline {section}{\numberline {4.1}Logiciels}{11}
+\contentsline {section}{\numberline {4.2}Autres}{11}
+\contentsline {chapter}{\numberline {5}Budget pour le projet}{12}
+\contentsline {chapter}{\numberline {6}Conclusion}{13}
