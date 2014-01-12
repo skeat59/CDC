@@ -1,30 +1,31 @@
 \select@language {french}
-\contentsline {chapter}{\numberline {1}Pr\'esentations}{2}
-\contentsline {section}{\numberline {1.1} L'\'equipe }{2}
-\contentsline {section}{\numberline {1.2} Les Membres }{3}
-\contentsline {subsection}{\numberline {1.2.1}Mathilde "Mattou" Laplaze}{3}
-\contentsline {subsection}{\numberline {1.2.2}Adrien "TiNyDGZz" Louge}{3}
-\contentsline {subsection}{\numberline {1.2.3}Florent "T4ze" Youinou}{4}
-\contentsline {subsection}{\numberline {1.2.4}Thibault "Skeat" Gdalia}{4}
-\contentsline {chapter}{\numberline {2}Principe et histoire du jeu}{5}
-\contentsline {chapter}{\numberline {3}Partage du travail}{6}
-\contentsline {section}{\numberline {3.1}Repartitions}{7}
-\contentsline {subsection}{\numberline {3.1.1}T\IeC {\^a}ches}{7}
-\contentsline {subsection}{\numberline {3.1.2}Soutenances}{7}
-\contentsline {section}{\numberline {3.2}Graphismes}{7}
-\contentsline {subsection}{\numberline {3.2.1}Logo}{7}
-\contentsline {paragraph}{Jeu}{7}
-\contentsline {paragraph}{Groupe}{7}
-\contentsline {subsection}{\numberline {3.2.2}Fonds et obstacles}{8}
-\contentsline {subsection}{\numberline {3.2.3}Personnage(s)}{8}
-\contentsline {section}{\numberline {3.3}Moteur Physique}{8}
-\contentsline {section}{\numberline {3.4}R\IeC {\'e}seaux}{8}
-\contentsline {section}{\numberline {3.5}Menu}{9}
-\contentsline {section}{\numberline {3.6}Communication}{9}
-\contentsline {section}{\numberline {3.7}\'Editeur de Maps}{10}
-\contentsline {section}{\numberline {3.8}Son}{10}
-\contentsline {chapter}{\numberline {4}Ressources utilis\IeC {\'e}es}{11}
-\contentsline {section}{\numberline {4.1}Logiciels}{11}
-\contentsline {section}{\numberline {4.2}Autres}{11}
-\contentsline {chapter}{\numberline {5}Budget pour le projet}{12}
-\contentsline {chapter}{\numberline {6}Conclusion}{13}
+\contentsline {chapter}{\numberline {1}Introduction}{3}
+\contentsline {chapter}{\numberline {2}Pr\'esentations}{4}
+\contentsline {section}{\numberline {2.1} L'\'equipe }{4}
+\contentsline {section}{\numberline {2.2} Les Membres }{5}
+\contentsline {subsection}{\numberline {2.2.1}Mathilde "Mattou" Laplaze}{5}
+\contentsline {subsection}{\numberline {2.2.2}Adrien "TiNyDGZz" Louge}{5}
+\contentsline {subsection}{\numberline {2.2.3}Florent "T4ze" Youinou}{6}
+\contentsline {subsection}{\numberline {2.2.4}Thibault "Skeat" Gdalia}{6}
+\contentsline {chapter}{\numberline {3}Principe et histoire du jeu}{7}
+\contentsline {chapter}{\numberline {4}Partage du travail}{8}
+\contentsline {section}{\numberline {4.1}Repartitions}{9}
+\contentsline {subsection}{\numberline {4.1.1}T\IeC {\^a}ches}{9}
+\contentsline {subsection}{\numberline {4.1.2}Soutenances}{9}
+\contentsline {section}{\numberline {4.2}Graphismes}{9}
+\contentsline {subsection}{\numberline {4.2.1}Logo}{9}
+\contentsline {paragraph}{Jeu}{9}
+\contentsline {paragraph}{Groupe}{9}
+\contentsline {subsection}{\numberline {4.2.2}Fonds et obstacles}{10}
+\contentsline {subsection}{\numberline {4.2.3}Personnage(s)}{10}
+\contentsline {section}{\numberline {4.3}Moteur Physique}{10}
+\contentsline {section}{\numberline {4.4}R\IeC {\'e}seaux}{10}
+\contentsline {section}{\numberline {4.5}Menu}{11}
+\contentsline {section}{\numberline {4.6}Communication}{11}
+\contentsline {section}{\numberline {4.7}\'Editeur de Maps}{12}
+\contentsline {section}{\numberline {4.8}Son}{12}
+\contentsline {chapter}{\numberline {5}Ressources utilis\IeC {\'e}es}{13}
+\contentsline {section}{\numberline {5.1}Logiciels}{13}
+\contentsline {section}{\numberline {5.2}Autres}{13}
+\contentsline {chapter}{\numberline {6}Budget pour le projet}{14}
+\contentsline {chapter}{\numberline {7}Conclusion}{15}
