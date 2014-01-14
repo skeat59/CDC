@@ -12,7 +12,7 @@
 \contentsline {section}{\numberline {4.1}Graphismes}{8}
 \contentsline {subsection}{\numberline {4.1.1}Logo}{8}
 \contentsline {paragraph}{Jeu}{8}
-\contentsline {paragraph}{Groupe}{8}
+\contentsline {paragraph}{Groupe Cf. Bas de page}{8}
 \contentsline {subsection}{\numberline {4.1.2}Fonds, Obstacles et Personnage(s)}{8}
 \contentsline {section}{\numberline {4.2}Moteur Physique}{9}
 \contentsline {section}{\numberline {4.3}R\IeC {\'e}seaux}{9}

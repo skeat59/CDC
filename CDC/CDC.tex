@@ -1,3 +1,4 @@
+
 \documentclass [11pt]{report}
 
 \usepackage{fancyhdr}
@@ -13,6 +14,58 @@
 \usepackage{minitoc}
 \usepackage{footmisc}
 \usepackage{color}
+\usepackage{graphicx}
+
+\usepackage{eso-pic}
+
+\makeatletter
+\newlength\@tempdim@x
+\newlength\@tempdim@y
+% structure des commandes :
+%   #1 = deplacement selon x
+%   #2 = deplacement selon y
+%   #3 = texte à mettre
+\newcommand\AtUpperLeftCorner[3]{%
+\begingroup
+\@tempdim@x=0cm
+\@tempdim@y=\paperheight
+\advance\@tempdim@x#1
+\advance\@tempdim@y-#2
+\put(\LenToUnit{\@tempdim@x},\LenToUnit{\@tempdim@y}){#3}%
+\endgroup
+}
+\newcommand\AtUpperRightCorner[3]{%
+\begingroup
+\@tempdim@x=\paperwidth
+\@tempdim@y=\paperheight
+\advance\@tempdim@x-#1
+\advance\@tempdim@y-#2
+\put(\LenToUnit{\@tempdim@x},\LenToUnit{\@tempdim@y}){#3}%
+\endgroup
+}
+\newcommand\AtLowerLeftCorner[3]{%
+\begingroup
+\@tempdim@x=0cm
+\@tempdim@y=0cm
+\advance\@tempdim@x#1
+\advance\@tempdim@y#2
+\put(\LenToUnit{\@tempdim@x},\LenToUnit{\@tempdim@y}){#3}%
+\endgroup
+}
+\newcommand\AtLowerRightCorner[3]{%
+\begingroup
+\@tempdim@x=\paperwidth
+\@tempdim@y=0cm
+\advance\@tempdim@x-#1
+\advance\@tempdim@y#2
+\put(\LenToUnit{\@tempdim@x},\LenToUnit{\@tempdim@y}){#3}%
+\endgroup
+}
+% ajout de texte ou d'images en haut à gauche, en haut à droite, etc.
+\AddToShipoutPicture{%
+\AtLowerRightCorner{3cm}{1cm}{\includegraphics[scale=0.20]{images/LogoGroupe.png}}% image en bas à droite
+}
+\makeatother
 
 \pagestyle{fancy}
 
@@ -33,7 +86,6 @@
 	Mathilde Laplaze\\\vspace{2mm}
 	Thibault Gdalia\\\vspace{30mm}
 	}
-
 
 
 \date{17 janvier 2014}
@@ -111,7 +163,7 @@
 			\paragraph{Jeu}
 			L'idée de ce logo provient du célèbre jeu CandyCrush, et sa couleur Orangée/Marron s'inspire des sodas. Ces reflets clairs et ces bulles présentes un peu partout dans le titre rappellent le côté sucré d'un bonbon et annoncent ainsi en quelque sorte l'idée du jeux (un oiseau gourmand qui doit avaler des bonbons pour avoir des forces). 
 
-			\paragraph{Groupe}
+			\paragraph{Groupe Cf. Bas de page}
 			Le logo de groupe quant à lui a été décidé assez au hasard. En effet, un jour Skeat et TiNy ont vu un Flashcode et se sont demandé pourquoi ne pas en faire le logo du groupe. Lorsque vous flashez le flashcode (Logique non ?) il vous amènera directement sur le site internet du projet, ce qui nous permet de nous faire connaitre implicitement. Pour ne pas avoir un simple flashcode noir et blanc, nous avons cherché à le personaliser et c'est ainsi que s'est crée notre logo. Pour rester dans les tons du jeux, sa couleur bleue a été choisie par rapport à la salopette bleue du petit oiseau principal !\\\vspace{5mm}
 
 		\subsection {Fonds, Obstacles et Personnage(s)}
@@ -236,6 +288,6 @@ Mais cet oiseau, tout comme les fonds, pourra être modifié dans des versions u
 				
 			\end{tabular}
 \chapter {Conclusion}
-	Ainsi nous avons poser les bases de notre projet, nous avons fixer les objectifs a atteindre pour chaque soutenance
+	Notre projet est donc basé sur un jeu de style Jetpack en 2D et représente un assez grand défi pour nous. C’est pourquoi nous sommes motivé et prêts à réaliser ce jeu entièrement et pourquoi pas y rajouter quelques nouveautés imprévues. Le mode solo permettra donc de se défier sois même et une foi connecté , le joueur pourra se défier a d’autres joueurs et les scores seront transmis sur le site web de notre projet. Le travail personnel et collectif que nous devons fournir tend à enrichir notre propre expérience.
 
 \end {document}
