@@ -9,20 +9,20 @@
 \contentsline {subsection}{\numberline {2.2.4}Thibault "Skeat" Gdalia}{5}
 \contentsline {chapter}{\numberline {3}Principe et histoire du jeu}{6}
 \contentsline {chapter}{\numberline {4}Partage du travail}{7}
-\contentsline {section}{\numberline {4.1}Repartitions}{8}
-\contentsline {subsection}{\numberline {4.1.1}T\IeC {\^a}ches}{8}
-\contentsline {subsection}{\numberline {4.1.2}Soutenances}{8}
-\contentsline {section}{\numberline {4.2}Graphismes}{8}
-\contentsline {subsection}{\numberline {4.2.1}Logo}{8}
+\contentsline {section}{\numberline {4.1}Graphismes}{8}
+\contentsline {subsection}{\numberline {4.1.1}Logo}{8}
 \contentsline {paragraph}{Jeu}{8}
 \contentsline {paragraph}{Groupe}{8}
-\contentsline {subsection}{\numberline {4.2.2}Fonds, Obstacles et Personnage(s)}{9}
-\contentsline {section}{\numberline {4.3}Moteur Physique}{9}
-\contentsline {section}{\numberline {4.4}R\IeC {\'e}seaux}{9}
-\contentsline {section}{\numberline {4.5}Menu}{10}
-\contentsline {section}{\numberline {4.6}Communication}{10}
-\contentsline {section}{\numberline {4.7}\'Editeur de Maps}{11}
-\contentsline {section}{\numberline {4.8}Son}{11}
+\contentsline {subsection}{\numberline {4.1.2}Fonds, Obstacles et Personnage(s)}{8}
+\contentsline {section}{\numberline {4.2}Moteur Physique}{9}
+\contentsline {section}{\numberline {4.3}R\IeC {\'e}seaux}{9}
+\contentsline {section}{\numberline {4.4}Menu}{9}
+\contentsline {section}{\numberline {4.5}Communication}{10}
+\contentsline {section}{\numberline {4.6}\'Editeur de Maps}{10}
+\contentsline {section}{\numberline {4.7}Son}{11}
+\contentsline {section}{\numberline {4.8}Repartitions}{11}
+\contentsline {subsection}{\numberline {4.8.1}T\IeC {\^a}ches}{11}
+\contentsline {subsection}{\numberline {4.8.2}Soutenances}{11}
 \contentsline {chapter}{\numberline {5}Ressources utilis\IeC {\'e}es}{12}
 \contentsline {section}{\numberline {5.1}Logiciels}{12}
 \contentsline {section}{\numberline {5.2}Autres}{12}
