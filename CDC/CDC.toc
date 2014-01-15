@@ -25,4 +25,4 @@
 \contentsline {chapter}{\numberline {4}Ressources utilis\IeC {\'e}es}{12}
 \contentsline {section}{\numberline {4.1}Logiciels}{12}
 \contentsline {section}{\numberline {4.2}Autres}{12}
-\contentsline {chapter}{\numberline {5}Budget pour le projet}{14}
+\contentsline {chapter}{\numberline {5}Budget pour le projet}{13}
