@@ -5,6 +5,7 @@
 \contentsline {subsection}{\numberline {1.2.1}Mathilde "Mattou" Laplaze}{4}
 \contentsline {subsection}{\numberline {1.2.2}Florent "T4ze" Youinou}{4}
 \contentsline {subsection}{\numberline {1.2.3}Thibault "Skeat" Gdalia}{5}
+\contentsline {subsection}{\numberline {1.2.4}Vincent "Vincae" Baille}{5}
 \contentsline {chapter}{\numberline {2}Principe et histoire du jeu}{6}
 \contentsline {chapter}{\numberline {3}Partage du travail}{7}
 \contentsline {section}{\numberline {3.1}Graphismes}{8}
