@@ -18,7 +18,7 @@
 \contentsline {section}{\numberline {3.5}Menu}{10}
 \contentsline {section}{\numberline {3.6}Communication}{10}
 \contentsline {section}{\numberline {3.7}\'Editeur de Maps}{11}
-\contentsline {section}{\numberline {3.8}Son}{12}
+\contentsline {section}{\numberline {3.8}Son}{11}
 \contentsline {section}{\numberline {3.9}Repartitions}{12}
 \contentsline {subsection}{\numberline {3.9.1}T\IeC {\^a}ches}{12}
 \contentsline {subsection}{\numberline {3.9.2}Soutenances}{12}

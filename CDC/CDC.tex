@@ -103,17 +103,17 @@
 \textbf{{\Huge Introduction}}\\
 \\
 \\
-		\indent Pour notre première année à EPITA (année de Sup), nous avons un projet libre à développer par petit groupe de 3personnes. Nous avons donc formé notre groupe : la Team Girafe, qui vous sera présenté plus loin. Ce projet devant exclusivement être codé en C\# ou en Caml, nous avons décidé de créer un jeu vidéo (on 		aime l'originalité de l'idée). Et il faut le reconnaitre, avoir l'opportunité de créer un jeux vidéo dès sa première année est une chance que nous offre EPITA. En effet, réaliser un jeux nous permet d'apprendre de façon ludique et nous donne vraiment envie d'essayer d'exploiter le potentiel du C\# (même si cela ne reste qu'une petite partie 		de ses capacités vu son étendue).\\
+		\indent Pour notre première année à EPITA (année de Sup), nous avons un projet libre à développer par petit groupe de 4 personnes. Nous avons donc formé notre groupe : la Team Girafe, qui vous sera présenté plus loin. Ce projet devant exclusivement être codé en C\# ou en Caml, nous avons décidé de créer un jeu vidéo (on 		aime l'originalité de l'idée). Et il faut le reconnaitre, avoir l'opportunité de créer un jeux vidéo dès sa première année est une chance que nous offre EPITA. En effet, réaliser un jeux nous permet d'apprendre de façon ludique et nous donne vraiment envie d'essayer d'exploiter le potentiel du C\# (même si cela ne reste qu'une petite partie 		de ses capacités vu son étendue).\\
 
-		\indent Travailler en groupe est un un point important et parfois même difficile. Il faut donc que l'ensemble des membres soit motivés ne serait-ce qu'à l'idée de faire un jeux. Naturellement, il faut aussi une bonne entente au sein du groupe, puisque nous passerons beaucoup de temps ensemble, cela contribuera grandement à la 			réussite de ce projet. C'est pourquoi la question principale qui s'est posée en tant qu'entretien d'entrée dans le groupe à été : êtes-vous motivé ?\\\\
-		\indent Ainsi, tout au long de ce cahier des charges, vous allez pouvoir comprendre qui nous-sommes, ce que nous comptons faire, mais aussi comment nous comptons le faire. Tout en espérant qu'elle vous plaira : Bonne lecture.
+		\indent Travailler en groupe est un un point important et parfois même difficile. Il faut donc que l'ensemble des membres soit motivés ne serait-ce qu'à l'idée de faire un jeux. Naturellement, il faut aussi une bonne entente au sein du groupe, puisque nous passerons beaucoup de temps ensemble, cela contribuera grandement à la 			réussite de ce projet. C'est pourquoi la question principale qui s'est posée en tant qu'entretient d'entrée dans le groupe à été : êtes-vous motivé ?\\\\
+		\indent Ainsi, tout au long de ce cahier des charges, vous allez pouvoir comprendre qui nous sommes, ce que nous comptons faire, mais aussi comment nous comptons le faire. Tout en espérant qu'elle vous plaira : Bonne lecture.
 		
 \chapter {Pr\'esentations}
 
 	\section{ L'\'equipe }
 
-		La Team Girafe est  un groupe constitué de trois personnes : Mathilde Laplaze alias "Mattou", la seule fille du groupe, Florent Youinou alias "T4ze" et Thibault Gdalia alias "Skeat", le chef de ce projet. Retenez bien ces pseudos car dans le reste de ce cahier des charges nous n'utiliserons plus nos 		noms et pr\'enoms. Nous sommes r\'epartie sur deux classes : la SUPB2 et la SUPD2. \\
-		\indent  Nous savons qu'il n'est pas impossible de travailler entre \'el\`eves de classes diff\'erentes. En effet, Skeat a déjà vecu cette expérience l'année dernière. Le groupe a \'et\'e form\'e en fonction des affinit\'es, ainsi que des comp\'etences de chacun que nous avons pu observer durant le premier semestre. 		Pour une meilleure ambiance dans l'\'equipe, et pour avoir un bon rythme de travail, le groupe s'est constitué de membres qui ont la volont\'e de travailler. 
+		La Team Girafe est  un groupe constitué de quatres personnes : Mathilde Laplaze alias "Mattou", la seule fille du groupe, Florent Youinou alias "T4ze", Thibault Gdalia alias "Skeat", le chef de ce projet et Vincent. Retenez bien ces pseudos car dans le reste de ce cahier des charges nous n'utiliserons plus nos 		noms et pr\'enoms. Nous sommes r\'epartie sur deux classes : la SUPB2 et la SUPD2. \\
+		\indent  Nous savons qu'il n'est pas impossible de travailler entre \'el\`eves de classes diff\'erentes. En effet, Skeat a déjà vécu cette expérience l'année dernière. Le groupe a \'et\'e form\'e en fonction des affinit\'es, ainsi que des comp\'etences de chacun que nous avons pu observer durant le premier semestre. 		Pour une meilleure ambiance dans l'\'equipe, et pour avoir un bon rythme de travail, le groupe s'est constitué de membres qui ont la volont\'e de travailler. 
 	
 	
 	
@@ -211,7 +211,7 @@ Mais cet animal est loin d'être un oiseau ordinaire. En effet, à cause de la p
 		Nous avons décidé de faire les maps dans des fichiers externes, sous formes de tableaux en associant des caractères spécifiques à chaque élément du décors (par exemple un 1 sera un carré rouge). Comme que nous n'avons aucune envie d'écrire toutes les maps à la main (nous pouvons perdre notre temps autrement), nous 		allons créer un éditeur de maps, tout d'abord pour nous, et une fois que nous aurons une interface graphique digne de notre jeu, il sera par la suite intégré au jeu, afin le joueur pourra lui même créer des niveaux et pourquoi pas les partager avec les autres joueurs pour les mettre au défis, ce qui nous permettra d'allonger la durée de 		vie du jeu.\\\vspace{5mm}
 
 
-\newpage
+
 	\section {Son}
 		Un jeux, c'est bien, mais avec du son c'est mieux ! Nous allons utiliser une extension de XNA, Xact, qui nous permettra de g\'erer une biblioth\`eque de sons dans le jeux. Cette biblioth\`eque nous permettra d'am\'eliorer nos \'ev\'enements avec des musiques d'ambiances (sound sur Xact) et des effets sonores lors des actions du 		joueur , sera accompagné d'un sound effect. Ainsi chaque événement lors d'une partie tel que les bons de l'oiseau ou lors d'une collision entre l'oiseau et un élément du décor, toutes les maps auront donc leur propre ambiance, par contre il n'y aura qu'une seule et même légère musique dans les menus. L'ensemble des sons seront récupérés sur internet car nous n'avons malheureusement pas de musiciens dans notre groupe (nous feront avec ce que nous trouverons). Puisque la musique n'est qu'une feature du jeux, il faut limiter son temps de recherche, nous ne seront donc que deux à travailler sur cette partie.\\\vspace{5mm}
 
@@ -286,7 +286,7 @@ Mais cet animal est loin d'être un oiseau ordinaire. En effet, à cause de la p
 				\hline
 				Années a \'Epita (x4) & 22 800 € \\
 				\hline
-				Ordinateur (x3) & 4 085 €  \\
+				Ordinateur (x4) & 4 085 €  \\
 				\hline
 				Nom de Domaine et Hébergement &  15€ \\
 				\hline
