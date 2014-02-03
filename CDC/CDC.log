@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.26)  2 FEB 2014 22:18
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.26)  3 FEB 2014 18:53
 entering extended mode
 **CDC.tex
 (C:\Users\T4ze\Documents\GitHub\CDC\CDC\CDC.tex
@@ -875,7 +875,7 @@ Package pdftex.def Info: images/LogoGroupe.png used on input line 315.
 Here is how much of TeX's memory you used:
  6104 strings out of 493921
  83277 string characters out of 3144878
- 159551 words of memory out of 3000000
+ 160551 words of memory out of 3000000
  9106 multiletter control sequences out of 15000+200000
  19200 words of font info for 42 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -893,7 +893,7 @@ s\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\T4ze\AppData\Local\MiKTeX
 \2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk> <C:\Users\T4ze\AppData\Loc
 al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\T4ze\Ap
 pData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi2488.pk>
-Output written on CDC.pdf (16 pages, 562136 bytes).
+Output written on CDC.pdf (16 pages, 562160 bytes).
 PDF statistics:
  423 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
